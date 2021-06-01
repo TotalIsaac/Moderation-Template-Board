@@ -1,0 +1,280 @@
+R00: 
+  title: TIG Warn
+  color: lime green
+  active_color: forest green
+  EN: Please do not trade in global chat - we prefer you to use the dedicated trading channels. Please note that we consider any kind of charging/offering payment for rotations or services to be trade as well (this also includes 'PM for info' of any form).
+  BR: Não negocie no chat global - preferimos que você use os canais de negociação dedicados. Observe que também consideramos qualquer tipo de cobrança / oferta de pagamento por rotações ou serviços (isso também inclui 'PM para informações' de qualquer forma).
+  RU: Пожалуйста, не торгуйте в глобальном чате - мы предпочитаем, чтобы вы использовали выделенные торговые каналы. Обратите внимание, что мы рассматриваем любые виды взимания / предложения оплаты за ротацию или услуги также как торговлю (это также включает «PM для информации» в любой форме).
+  TH: โปรดอย่าแลกเปลี่ยนในการแชททั่วโลก - เราต้องการให้คุณใช้ช่องทางการซื้อขายเฉพาะ โปรดทราบว่าเราถือว่าการเรียกเก็บเงิน / การเสนอการชำระเงินสำหรับการหมุนเวียนหรือบริการใด ๆ เป็นการแลกเปลี่ยนเช่นกัน (รวมถึง 'PM สำหรับข้อมูล' ในทุกรูปแบบด้วย
+  DE: Bitte handeln Sie nicht im globalen Chat - wir bevorzugen die Nutzung der dedizierten Handelskanäle. Bitte beachten Sie, dass wir jede Art von Gebührenerhebung / Zahlungsangebot für Rotationen oder Dienstleistungen ebenfalls als Handel betrachten (dies schließt auch "PM für Informationen" jeglicher Art ein).
+  FR: Veuillez ne pas échanger dans le chat global - nous préférons que vous utilisiez les canaux de trading dédiés. Veuillez noter que nous considérons que tout type de facturation / offre de paiement pour des rotations ou des services est également du commerce (cela inclut également le `` PM pour info '' de toute forme).
+  ES: No realice transacciones en el chat global; preferimos que utilice los canales de negociación dedicados. Tenga en cuenta que también consideramos cualquier tipo de cobro / pago de oferta por rotaciones o servicios (esto también incluye 'PM para información' de cualquier forma).
+  KR: 글로벌 채팅에서 거래하지 마십시오. 전용 거래 채널을 사용하는 것이 좋습니다. 로테이션 또는 서비스에 대한 모든 종류의 청구 / 제안 지불도 거래로 간주합니다 (여기에는 모든 형태의 '정보 용 PM'도 포함됩니다).
+  
+
+R01: 
+  title: TIG Mute
+  color: lime green
+  active_color: forest green
+  EN: You've been muted for trading in global chat - we prefer you to use the dedicated trading channels. Please note that we consider any kind of charging/offering payment for rotations or services to be trade as well (this also includes 'PM for info' of any form).
+  BR: 
+  RU:
+  TH:
+  DE:
+  FR:
+  ES:
+  KR:
+  
+
+R02: 
+  title: HS Mute
+  color: 
+  active_color:  
+  EN: You've been muted for an antagonistic/offensive message.
+  BR: 
+  RU:
+  TH:
+  DE:
+  FR:
+  ES:
+  KR:
+  
+
+R03: 
+  title: Spam Warn
+  color: 
+  active_color:  
+  EN: Please do not spam chat.
+  BR: 
+  RU:
+  TH:
+  DE:
+  FR:
+  ES:
+  KR:
+  
+
+R04: 
+  title: Spam Mute
+  color: 
+  active_color:  
+  EN: You've been muted for spamming chat.
+  BR: 
+  RU:
+  TH:
+  DE:
+  FR:
+  ES:
+  KR:
+  
+
+R10: 
+  title: Inflam. Warn
+  color: 
+  active_color:  
+  EN: Please refrain from sending messages discussing inflammatory topics, such as religion or politics.
+  BR: 
+  RU:
+  TH:
+  DE:
+  FR:
+  ES:
+  KR:
+  
+
+R11: 
+  title: Inflam. Mute
+  color: 
+  active_color:  
+  EN: You've been muted for sending messages discussing inflammatory topics, such as religion or politics.
+  BR: 
+  RU:
+  TH:
+  DE:
+  FR:
+  ES:
+  KR:
+  
+
+R12: 
+  title: N&S Warn
+  color: 
+  active_color:  
+  EN: Please do not name and shame another player. If you would like to report someone for scamming, please send your report through to us at support@grindinggear.com instead.
+  BR: 
+  RU:
+  TH:
+  DE:
+  FR:
+  ES:
+  KR:
+  
+
+R13: 
+  title: N&S Mute
+  color: 
+  active_color:  
+  EN: You've been muted for naming and shaming another player. If you would like to report someone for scamming, please send your report through to us at support@grindinggear.com instead.
+  BR: 
+  RU:
+  TH:
+  DE:
+  FR:
+  ES:
+  KR:
+  
+
+R14: 
+  title: RMT Mute
+  color: 
+  active_color:  
+  EN: You've been muted for messages related to real money trading (RMT includes real money, forum gold, external services etc). Please note that RMT is a breach of our Terms of Use and we take it very seriously.
+  BR: 
+  RU:
+  TH:
+  DE:
+  FR:
+  ES:
+  KR:
+  
+
+R20: 
+  title: Rename
+  color: 
+  active_color:  
+  EN: You are about to be logged out due to having an offensive/inappropriate character name. When logging onto your character again, you will need to choose a more appropriate character name.
+  BR: 
+  RU:
+  TH:
+  DE:
+  FR:
+  ES:
+  KR:
+  
+
+R21: 
+  title: Inapp. Mute
+  color: 
+  active_color:  
+  EN: You've been muted for an inappropriate message.
+  BR: 
+  RU:
+  TH:
+  DE:
+  FR:
+  ES:
+  KR:
+  
+
+R22: 
+  title: Complaint
+  color: 
+  active_color:  
+  EN: If you have any complaints or concerns about our moderation, please contact us at support@grindinggear.com.
+  BR: 
+  RU:
+  TH:
+  DE:
+  FR:
+  ES:
+  KR:
+  
+
+R23: 
+  title: Mute Length
+  color: 
+  active_color:  
+  EN: You can view how long is remaining on your mute when you try to send a message in a global channel.
+  BR: 
+  RU:
+  TH:
+  DE:
+  FR:
+  ES:
+  KR:
+  
+
+R24: 
+  title: Off. Language
+  color: 
+  active_color:  
+  EN: You've been muted for using offensive language.
+  BR: 
+  RU:
+  TH:
+  DE:
+  FR:
+  ES:
+  KR:
+  
+
+R30: 
+  title:
+  color: 
+  active_color:  
+  EN: 
+  BR: 
+  RU:
+  TH:
+  DE:
+  FR:
+  ES:
+  KR:
+  
+
+R31: 
+  title:
+  color: 
+  active_color:  
+  EN: 
+  BR: 
+  RU:
+  TH:
+  DE:
+  FR:
+  ES:
+  KR:
+  
+
+R32: 
+  title:
+  color: 
+  active_color:  
+  EN: 
+  BR: 
+  RU:
+  TH:
+  DE:
+  FR:
+  ES:
+  KR:
+  
+
+R33: 
+  title:
+  color: 
+  active_color:  
+  EN: 
+  BR: 
+  RU:
+  TH:
+  DE:
+  FR:
+  ES:
+  KR:
+  
+
+R34: 
+  title:
+  color: 
+  active_color:  
+  EN: 
+  BR: 
+  RU:
+  TH:
+  DE:
+  FR:
+  ES:
+  KR:
+  
+
