@@ -43,10 +43,10 @@ def lang_button_setup(templates, language, frm_copy, frm_lang):
             pad = (1, 1)
 
         if lang[i] == language:
-            btn = Button(frm_lang, text=lang[i], width=5, relief=SUNKEN, 
+            btn = Button(frm_lang, text=lang[i], font='Helvetica 11 bold', width=5, relief=SUNKEN, 
                         state='disabled', background='grey70', borderwidth=2)
         else:
-            btn = HoverButton(frm_lang, text=lang[i], width=5, relief=GROOVE,
+            btn = HoverButton(frm_lang, text=lang[i], font='Helvetica 11 bold', width=5, relief=GROOVE,
                         command=lambda k=lang[i]: lang_button_setup(templates, k, frm_copy, frm_lang))
         
         btn.grid(row=row, column=col, padx=pad, pady=1, sticky="NSEW")
@@ -56,8 +56,8 @@ def copy_button_setup(templates, language, frame):
     for r in range(4):
         for c in range(5):
             rowcol = 'R' + str(r) + str(c)
-            btn = HoverButton(frame, activebackground='green', text=templates[rowcol]['title'], 
-                        width=15, relief=GROOVE, background=templates[rowcol]['color'],
+            btn = HoverButton(frame, activebackground=templates[rowcol]['active_color'], text=templates[rowcol]['title'], 
+                        font='Helvetica 11 bold', width=15, relief=GROOVE, background=templates[rowcol]['color'],
                         command=lambda rowcol=rowcol: copy_button(templates[rowcol][language]))
             btn.grid(row=r, column=c, padx=1, pady=1, sticky='NSEW')
 

@@ -2,203 +2,203 @@ R00:
   title: TIG Warn
   color: lime green
   active_color: forest green
-  EN: Please do not trade in global chat - we prefer you to use the dedicated trading channels. Please note that we consider any kind of charging/offering payment for rotations or services to be trade as well (this also includes 'PM for info' of any form).
-  BR: Não negocie no chat global - preferimos que você use os canais de negociação dedicados. Observe que também consideramos qualquer tipo de cobrança / oferta de pagamento por rotações ou serviços (isso também inclui 'PM para informações' de qualquer forma).
-  RU: Пожалуйста, не торгуйте в глобальном чате - мы предпочитаем, чтобы вы использовали выделенные торговые каналы. Обратите внимание, что мы рассматриваем любые виды взимания / предложения оплаты за ротацию или услуги также как торговлю (это также включает «PM для информации» в любой форме).
-  TH: โปรดอย่าแลกเปลี่ยนในการแชททั่วโลก - เราต้องการให้คุณใช้ช่องทางการซื้อขายเฉพาะ โปรดทราบว่าเราถือว่าการเรียกเก็บเงิน / การเสนอการชำระเงินสำหรับการหมุนเวียนหรือบริการใด ๆ เป็นการแลกเปลี่ยนเช่นกัน (รวมถึง 'PM สำหรับข้อมูล' ในทุกรูปแบบด้วย
-  DE: Bitte handeln Sie nicht im globalen Chat - wir bevorzugen die Nutzung der dedizierten Handelskanäle. Bitte beachten Sie, dass wir jede Art von Gebührenerhebung / Zahlungsangebot für Rotationen oder Dienstleistungen ebenfalls als Handel betrachten (dies schließt auch "PM für Informationen" jeglicher Art ein).
-  FR: Veuillez ne pas échanger dans le chat global - nous préférons que vous utilisiez les canaux de trading dédiés. Veuillez noter que nous considérons que tout type de facturation / offre de paiement pour des rotations ou des services est également du commerce (cela inclut également le `` PM pour info '' de toute forme).
-  ES: No realice transacciones en el chat global; preferimos que utilice los canales de negociación dedicados. Tenga en cuenta que también consideramos cualquier tipo de cobro / pago de oferta por rotaciones o servicios (esto también incluye 'PM para información' de cualquier forma).
-  KR: 글로벌 채팅에서 거래하지 마십시오. 전용 거래 채널을 사용하는 것이 좋습니다. 로테이션 또는 서비스에 대한 모든 종류의 청구 / 제안 지불도 거래로 간주합니다 (여기에는 모든 형태의 '정보 용 PM'도 포함됩니다).
+  EN: Please do not trade in global chat (this also includes charging or offering payment for services and rotations).
+  BR: Não negocie no chat global (isso também inclui cobrar ou oferecer pagamento por serviços e rotações).
+  RU: Пожалуйста, не торгуйте в глобальном чате (это также включает взимание или предложение оплаты за услуги и ротации).
+  TH: โปรดอย่าแลกเปลี่ยนในการแชททั่วโลก (ซึ่งรวมถึงการเรียกเก็บเงินหรือเสนอการชำระเงินสำหรับบริการและการหมุนเวียน)
+  DE: Bitte handeln Sie nicht im globalen Chat (dies umfasst auch das Verrechnen oder Anbieten von Zahlungen für Dienste und Rotationen).
+  FR: Veuillez ne pas échanger dans le chat mondial (cela inclut également la facturation ou l'offre de paiement pour les services et les rotations).
+  ES: No intercambie el chat global (esto también incluye cobrar u ofrecer pagos por servicios y rotaciones).
+  KR: 글로벌 채팅에서 거래하지 마십시오 (여기에는 서비스 및 로테이션에 대한 비용 청구 또는 제공도 포함됩니다).
   
 
 R01: 
   title: TIG Mute
   color: lime green
   active_color: forest green
-  EN: You've been muted for trading in global chat - we prefer you to use the dedicated trading channels. Please note that we consider any kind of charging/offering payment for rotations or services to be trade as well (this also includes 'PM for info' of any form).
-  BR: 
-  RU:
-  TH:
-  DE:
-  FR:
-  ES:
-  KR:
+  EN: You've been muted for trading in global chat (this also includes charging or offering payment for services and rotations). You can view your remaining mute time by sending a message in global chat.
+  BR: Você foi silenciado por negociar no chat global (isso também inclui cobrar ou oferecer pagamento por serviços e rotações). Você pode ver o tempo restante sem áudio enviando uma mensagem no chat global.
+  RU: Вы были отключены за торговлю в глобальном чате (это также включает взимание или предложение оплаты за услуги и ротацию). Вы можете просмотреть оставшееся время отключения звука, отправив сообщение в глобальном чате.
+  TH: คุณถูกปิดเสียงสำหรับการซื้อขายในการแชททั่วโลก (ซึ่งรวมถึงการเรียกเก็บเงินหรือเสนอการชำระเงินสำหรับบริการและการหมุนเวียน) คุณสามารถดูเวลาปิดเสียงที่เหลืออยู่ได้โดยการส่งข้อความในแชททั่วโลก
+  DE: Sie wurden für den Handel im globalen Chat stumm geschaltet (dies umfasst auch das Abrechnen oder Anbieten von Zahlungen für Dienste und Rotationen). Sie können Ihre verbleibende Stummschaltzeit anzeigen, indem Sie eine Nachricht im globalen Chat senden.
+  FR: Vous avez été mis en sourdine pour le commerce dans le chat mondial (cela inclut également la facturation ou l'offre de paiement pour les services et les rotations). Vous pouvez afficher votre temps de silence restant en envoyant un message dans le chat global.
+  ES: Ha sido silenciado para operar en el chat global (esto también incluye cobrar u ofrecer pago por servicios y rotaciones). Puede ver el tiempo de silencio restante enviando un mensaje en el chat global.
+  KR: 글로벌 채팅 거래를 위해 음소거되었습니다 (여기에는 서비스 및 로테이션에 대한 청구 또는 지불 제공도 포함됩니다). 글로벌 채팅에서 메시지를 보내서 남은 음소거 시간을 볼 수 있습니다.
   
 
 R02: 
-  title: HS Mute
-  color: red2
-  active_color:  
-  EN: You've been muted for an antagonistic/offensive message.
-  BR: 
-  RU:
-  TH:
-  DE:
-  FR:
-  ES:
-  KR:
+  title: Inapp. Mute
+  color: maroon1
+  active_color: maroon4
+  EN: You've been muted for an inappropriate message. You can view your remaining mute time by sending a message in global chat.
+  BR: Você foi silenciado por uma mensagem inadequada. Você pode ver o tempo restante sem áudio enviando uma mensagem no chat global.
+  RU: Вас отключили за неприемлемое сообщение. Вы можете просмотреть оставшееся время отключения звука, отправив сообщение в глобальном чате.
+  TH: คุณถูกปิดเสียงเนื่องจากข้อความที่ไม่เหมาะสม คุณสามารถดูเวลาปิดเสียงที่เหลืออยู่ได้โดยการส่งข้อความในแชททั่วโลก
+  DE: Sie wurden wegen einer unangemessenen Nachricht stummgeschaltet. Sie können Ihre verbleibende Stummschaltzeit anzeigen, indem Sie eine Nachricht im globalen Chat senden.
+  FR: Vous avez été mis en sourdine pour un message inapproprié. Vous pouvez afficher votre temps de silence restant en envoyant un message dans le chat global.
+  ES: Te han silenciado por un mensaje inapropiado. Puede ver el tiempo de silencio restante enviando un mensaje en el chat global.
+  KR: You've been muted for an inappropriate message. You can view your remaining mute time by sending a message in global chat.
   
 
 R03: 
-  title: Spam Warn
-  color: cornflower blue
-  active_color:  
-  EN: Please do not spam chat.
-  BR: 
-  RU:
-  TH:
-  DE:
-  FR:
-  ES:
-  KR:
+  title: HS Mute
+  color: red2
+  active_color: red4
+  EN: You've been muted for an antagonistic/offensive message. You can view your remaining mute time by sending a message in global chat.
+  BR: Você foi silenciado por uma mensagem antagônica / ofensiva. Você pode ver o tempo restante sem áudio enviando uma mensagem no chat global.
+  RU: Вас отключили за антагонистическое / оскорбительное сообщение. Вы можете просмотреть оставшееся время отключения звука, отправив сообщение в глобальном чате.
+  TH: คุณถูกปิดเสียงเนื่องจากข้อความที่เป็นปฏิปักษ์/ไม่เหมาะสม คุณสามารถดูเวลาปิดเสียงที่เหลืออยู่ได้โดยการส่งข้อความในแชททั่วโลก
+  DE: Sie wurden wegen einer antagonistischen/anstößigen Nachricht stummgeschaltet. Sie können Ihre verbleibende Stummschaltzeit anzeigen, indem Sie eine Nachricht im globalen Chat senden.
+  FR: Vous avez été mis en sourdine pour un message antagoniste/offensant. Vous pouvez afficher votre temps de silence restant en envoyant un message dans le chat global.
+  ES: Ha sido silenciado por un mensaje antagónico / ofensivo. Puede ver el tiempo de silencio restante enviando un mensaje en el chat global.
+  KR: 적대적 / 공격적 메시지 때문에 음소거되었습니다. 글로벌 채팅에서 메시지를 보내서 남은 음소거 시간을 볼 수 있습니다.
   
 
 R04: 
-  title: Spam Mute
-  color: cornflower blue
-  active_color:  
-  EN: You've been muted for spamming chat.
-  BR: 
-  RU:
-  TH:
-  DE:
-  FR:
-  ES:
-  KR:
+  title: Off. Language
+  color: red2
+  active_color: red4
+  EN: You've been muted for using offensive language. You can view your remaining mute time by sending a message in global chat.
+  BR: Você foi silenciado por usar linguagem ofensiva. Você pode ver o tempo restante sem áudio enviando uma mensagem no chat global.
+  RU: Вас отключили за ненормативную лексику. Вы можете просмотреть оставшееся время отключения звука, отправив сообщение в глобальном чате.
+  TH: คุณถูกปิดเสียงเนื่องจากใช้ภาษาที่ไม่เหมาะสม คุณสามารถดูเวลาปิดเสียงที่เหลืออยู่ได้โดยการส่งข้อความในแชททั่วโลก
+  DE: Sie wurden stummgeschaltet, weil Sie anstößige Sprache verwendet haben. Sie können Ihre verbleibende Stummschaltzeit anzeigen, indem Sie eine Nachricht im globalen Chat senden.
+  FR: Vous avez été mis en sourdine pour avoir utilisé un langage offensant. Vous pouvez afficher votre temps de silence restant en envoyant un message dans le chat global.
+  ES: Te han silenciado por usar lenguaje ofensivo. Puede ver el tiempo de silencio restante enviando un mensaje en el chat global.
+  KR: 불쾌감을주는 언어를 사용하여 음소거되었습니다. 글로벌 채팅에서 메시지를 보내서 남은 음소거 시간을 볼 수 있습니다.
   
 
 R10: 
-  title: Inflam. Warn
-  color: goldenrod
-  active_color:  
-  EN: Please refrain from sending messages discussing inflammatory topics, such as religion or politics.
-  BR: 
-  RU:
-  TH:
-  DE:
-  FR:
-  ES:
-  KR:
+  title: Spam Warn
+  color: cornflower blue
+  active_color: royalblue3
+  EN: Please do not spam chat.
+  BR: Por favor, não faça spam no chat.
+  RU: Пожалуйста, не спамите в чате.
+  TH: กรุณาอย่าสแปมแชท
+  DE: Bitte keinen Spam-Chat.
+  FR: S'il vous plaît ne pas spammer le chat.
+  ES: Por favor, no hagas spam en el chat.
+  KR: 스팸 채팅을하지 마십시오.
   
 
 R11: 
-  title: Inflam. Mute
-  color: goldenrod
-  active_color:  
-  EN: You've been muted for sending messages discussing inflammatory topics, such as religion or politics.
-  BR: 
-  RU:
-  TH:
-  DE:
-  FR:
-  ES:
-  KR:
+  title: Spam Mute
+  color: cornflower blue
+  active_color: royalblue3
+  EN: You've been muted for spamming chat. You can view your remaining mute time by sending a message in global chat.
+  BR: Você foi silenciado por spamming no bate-papo. Você pode ver o tempo restante sem áudio enviando uma mensagem no chat global.
+  RU: Вас отключили за рассылку спама в чате. Вы можете просмотреть оставшееся время отключения звука, отправив сообщение в глобальном чате.
+  TH: คุณถูกปิดเสียงสำหรับการแชทสแปม คุณสามารถดูเวลาปิดเสียงที่เหลืออยู่ได้โดยการส่งข้อความในแชททั่วโลก
+  DE: Du wurdest wegen Spam-Chats stummgeschaltet. Sie können Ihre verbleibende Stummschaltzeit anzeigen, indem Sie eine Nachricht im globalen Chat senden.
+  FR: Vous avez été mis en sourdine pour cause de spam. Vous pouvez afficher votre temps de silence restant en envoyant un message dans le chat global.
+  ES: Te han silenciado por enviar spam al chat. Puede ver el tiempo de silencio restante enviando un mensaje en el chat global.
+  KR: 스팸 채팅으로 인해 음소거되었습니다. 글로벌 채팅에서 메시지를 보내서 남은 음소거 시간을 볼 수 있습니다.
   
 
 R12: 
-  title: N&S Warn
-  color: darkorchid1
-  active_color:  
-  EN: Please do not name and shame another player. If you would like to report someone for scamming, please send your report through to us at support@grindinggear.com instead.
-  BR: 
-  RU:
-  TH:
-  DE:
-  FR:
-  ES:
-  KR:
+  title: RMT Mute
+  color: turquoise
+  active_color: dark turquoise
+  EN: You've been muted 24 hours for messages related to real money trading (RMT includes real money, forum gold, services external to the game, etc.). Please note that RMT is a breach of our Terms of Use and we take it very seriously.
+  BR: Você foi silenciado 24 horas por mensagens relacionadas à negociação com dinheiro real (RMT inclui dinheiro real, ouro do fórum, serviços externos ao jogo, etc.). Observe que RMT é uma violação de nossos Termos de Uso e levamos isso muito a sério.
+  RU: На 24 часа вас отключили от сообщений, связанных с торговлей реальными деньгами (RMT включает в себя реальные деньги, золото форума, услуги, не связанные с игрой, и т. Д.). Обратите внимание, что RMT является нарушением наших Условий использования, и мы относимся к этому очень серьезно.
+  TH: คุณถูกปิดเสียงตลอด 24 ชั่วโมงสำหรับข้อความที่เกี่ยวข้องกับการซื้อขายด้วยเงินจริง (RMT รวมถึงเงินจริง ทองคำในฟอรัม บริการภายนอกเกม ฯลฯ) โปรดทราบว่า RMT เป็นการละเมิดข้อกำหนดการใช้งานของเรา และเราดำเนินการอย่างจริงจัง
+  DE: Sie wurden 24 Stunden lang stummgeschaltet für Nachrichten, die sich auf den Handel mit Echtgeld beziehen (RMT umfasst Echtgeld, Forumsgold, spielexterne Dienste usw.). Bitte beachten Sie, dass RMT gegen unsere Nutzungsbedingungen verstößt und wir dies sehr ernst nehmen.
+  FR: Vous avez été mis en sourdine pendant 24 heures pour les messages liés au trading d'argent réel (RMT inclut l'argent réel, l'or du forum, les services externes au jeu, etc.). Veuillez noter que RMT est une violation de nos conditions d'utilisation et nous le prenons très au sérieux.
+  ES: Ha estado silenciado las 24 horas para recibir mensajes relacionados con el comercio con dinero real (RMT incluye dinero real, oro del foro, servicios externos al juego, etc.). Tenga en cuenta que RMT es un incumplimiento de nuestros Términos de uso y lo tomamos muy en serio.
+  KR: 리얼 머니 거래 (RMT에는 리얼 머니, 포럼 골드, 게임 외부 서비스 등이 포함됨)와 관련된 메시지가 24 시간 동안 음소거되었습니다. RMT는 이용 약관 위반이며 매우 심각하게 받아들입니다.
   
 
 R13: 
-  title: N&S Mute
-  color: darkorchid1
-  active_color:  
-  EN: You've been muted for naming and shaming another player. If you would like to report someone for scamming, please send your report through to us at support@grindinggear.com instead.
-  BR: 
-  RU:
-  TH:
-  DE:
-  FR:
-  ES:
-  KR:
+  title: Inflam. Warn
+  color: goldenrod
+  active_color: dark goldenrod
+  EN: Please refrain from sending messages about inflammatory topics, such as religion or politics.
+  BR: Evite enviar mensagens sobre tópicos inflamados, como religião ou política.
+  RU: Пожалуйста, воздержитесь от рассылки сообщений на подстрекательские темы, такие как религия или политика.
+  TH: โปรดงดเว้นจากการส่งข้อความเกี่ยวกับหัวข้อที่ก่อให้เกิดความขัดแย้ง เช่น ศาสนาหรือการเมือง
+  DE: Bitte sehen Sie davon ab, Nachrichten zu aufrührerischen Themen wie Religion oder Politik zu senden.
+  FR: Veuillez vous abstenir d'envoyer des messages sur des sujets incendiaires, tels que la religion ou la politique.
+  ES: Abstente de enviar mensajes sobre temas inflamatorios, como religión o política.
+  KR: 종교 나 정치와 같은 선동적인 주제에 대한 메시지는 보내지 마십시오.
   
 
 R14: 
-  title: RMT Mute
-  color: cyan
-  active_color:  
-  EN: You've been muted for messages related to real money trading (RMT includes real money, forum gold, external services etc). Please note that RMT is a breach of our Terms of Use and we take it very seriously.
-  BR: 
-  RU:
-  TH:
-  DE:
-  FR:
-  ES:
-  KR:
+  title: Inflam. Mute
+  color: goldenrod
+  active_color: dark goldenrod
+  EN: You've been muted for sending messages about inflammatory topics, such as religion or politics. You can view your remaining mute time by sending a message in global chat.
+  BR: Você foi silenciado por enviar mensagens sobre tópicos inflamados, como religião ou política. Você pode ver o tempo restante sem áudio enviando uma mensagem no chat global.
+  RU: Вас отключили за отправку сообщений на подстрекательские темы, такие как религия или политика. Вы можете просмотреть оставшееся время отключения звука, отправив сообщение в глобальном чате.
+  TH: คุณถูกปิดเสียงจากการส่งข้อความเกี่ยวกับหัวข้อที่ก่อให้เกิดความขัดแย้ง เช่น ศาสนาหรือการเมือง คุณสามารถดูเวลาปิดเสียงที่เหลืออยู่ได้โดยการส่งข้อความในแชททั่วโลก
+  DE: Sie wurden stummgeschaltet, weil Sie Nachrichten zu aufrührerischen Themen wie Religion oder Politik gesendet haben. Sie können Ihre verbleibende Stummschaltzeit anzeigen, indem Sie eine Nachricht im globalen Chat senden.
+  FR: Vous avez été mis en sourdine pour avoir envoyé des messages sur des sujets incendiaires, tels que la religion ou la politique. Vous pouvez afficher votre temps de silence restant en envoyant un message dans le chat global.
+  ES: Ha sido silenciado por enviar mensajes sobre temas inflamatorios, como religión o política. Puede ver el tiempo de silencio restante enviando un mensaje en el chat global.
+  KR: 종교 나 정치와 같은 선동적인 주제에 대한 메시지를 보내서 음소거되었습니다. 글로벌 채팅에서 메시지를 보내서 남은 음소거 시간을 볼 수 있습니다.
   
 
 R20: 
-  title: Rename
-  color: darkorange1
-  active_color:  
-  EN: You are about to be logged out due to having an offensive/inappropriate character name. When logging onto your character again, you will need to choose a more appropriate character name.
-  BR: 
-  RU:
-  TH:
-  DE:
-  FR:
-  ES:
-  KR:
+  title: N&S Warn
+  color: darkorchid1
+  active_color: darkorchid4
+  EN: Please do not name and shame another player. If you would like to report someone for scamming, please send your report through to us at support@grindinggear.com instead.
+  BR: Por favor, não nomeie e envergonhe outro jogador. Se você gostaria de denunciar alguém por fraude, envie seu relatório para support@grindinggear.com.
+  RU: Пожалуйста, не называйте и не позорьте другого игрока. Если вы хотите сообщить о мошенничестве, отправьте его нам по адресу support@grindinggear.com.
+  TH: กรุณาอย่าตั้งชื่อและทำให้ผู้เล่นอื่นอับอาย หากคุณต้องการรายงานคนสำหรับการหลอกลวง โปรดส่งรายงานของคุณมาที่ support@grindinggear.com แทน
+  DE: Bitte benennen und beschämen Sie keinen anderen Spieler. Wenn Sie jemanden wegen Betrugs melden möchten, senden Sie Ihren Bericht bitte stattdessen an support@grindinggear.com.
+  FR: Veuillez ne pas nommer et faire honte à un autre joueur. Si vous souhaitez signaler quelqu'un pour escroquerie, veuillez nous envoyer votre rapport à support@grindinggear.com à la place.
+  ES: Por favor, no nombre ni avergüence a otro jugador. Si desea denunciar a alguien por estafa, envíenos su informe a support@grindinggear.com.
+  KR: 다른 플레이어의 이름을 지어 부끄럽게하지 마십시오. 사기를당한 사람을 신고하려면 대신 support@grindinggear.com으로 신고 해주십시오.
   
 
 R21: 
-  title: Inapp. Mute
-  color: maroon1
-  active_color:  
-  EN: You've been muted for an inappropriate message.
-  BR: 
-  RU:
-  TH:
-  DE:
-  FR:
-  ES:
-  KR:
+  title: N&S Mute
+  color: darkorchid1
+  active_color: darkorchid4
+  EN: You've been muted for naming and shaming another player. If you would like to report someone for scamming, please send your report through to us at support@grindinggear.com instead. You can view your remaining mute time by sending a message in global chat.
+  BR: Você foi silenciado por nomear e envergonhar outro jogador. Se você gostaria de denunciar alguém por fraude, envie seu relatório para support@grindinggear.com. Você pode ver o tempo restante sem áudio enviando uma mensagem no chat global.
+  RU: Вас отключили за то, что вы назвали другого игрока и пристыдили его. Если вы хотите сообщить о мошенничестве, отправьте его нам по адресу support@grindinggear.com. Вы можете просмотреть оставшееся время отключения звука, отправив сообщение в глобальном чате.
+  TH: คุณถูกปิดเสียงสำหรับการตั้งชื่อและทำให้ผู้เล่นคนอื่นอับอาย หากคุณต้องการรายงานคนสำหรับการหลอกลวง โปรดส่งรายงานของคุณมาที่ support@grindinggear.com แทน คุณสามารถดูเวลาปิดเสียงที่เหลืออยู่ได้โดยการส่งข้อความในแชททั่วโลก
+  DE: Sie wurden stummgeschaltet, weil Sie einen anderen Spieler benennen und beschämen. Wenn Sie jemanden wegen Betrugs melden möchten, senden Sie Ihren Bericht bitte stattdessen an support@grindinggear.com. Sie können Ihre verbleibende Stummschaltzeit anzeigen, indem Sie eine Nachricht im globalen Chat senden.
+  FR: Vous avez été mis en sourdine pour avoir nommé et humilié un autre joueur. Si vous souhaitez signaler quelqu'un pour escroquerie, veuillez nous envoyer votre rapport à support@grindinggear.com à la place. Vous pouvez afficher votre temps de silence restant en envoyant un message dans le chat global.
+  ES: Te han silenciado por nombrar y avergonzar a otro jugador. Si desea denunciar a alguien por estafa, envíenos su informe a support@grindinggear.com. Puede ver el tiempo de silencio restante enviando un mensaje en el chat global.
+  KR: 다른 플레이어의 이름을 지정하고 부끄럽게하기 위해 음소거되었습니다. 사기를당한 사람을 신고하려면 대신 support@grindinggear.com으로 신고 해주십시오. 글로벌 채팅에서 메시지를 보내서 남은 음소거 시간을 볼 수 있습니다.
   
 
 R22: 
   title: Complaint
   color: saddle brown
-  active_color:  
+  active_color: brown4
   EN: If you have any complaints or concerns about our moderation, please contact us at support@grindinggear.com.
-  BR: 
-  RU:
-  TH:
-  DE:
-  FR:
-  ES:
-  KR:
+  BR: Se você tiver alguma reclamação ou preocupação sobre nossa moderação, entre em contato conosco em support@grindinggear.com.
+  RU: Если у вас есть какие-либо жалобы или сомнения по поводу нашей модерации, свяжитесь с нами по адресу support@grindinggear.com.
+  TH: หากคุณมีข้อร้องเรียนหรือข้อกังวลใดๆ เกี่ยวกับการกลั่นกรองของเรา โปรดติดต่อเราที่ support@grindinggear.com
+  DE: Wenn Sie Beschwerden oder Bedenken bezüglich unserer Moderation haben, kontaktieren Sie uns bitte unter support@grindinggear.com.
+  FR: Si vous avez des plaintes ou des préoccupations concernant notre modération, veuillez nous contacter à support@grindinggear.com.
+  ES: Si tiene alguna queja o inquietud sobre nuestra moderación, contáctenos en support@grindinggear.com.
+  KR: 중재에 대한 불만이나 우려 사항이 있으면 support@grindinggear.com으로 문의하십시오.
   
 
 R23: 
-  title: Mute Length
-  color: salmon
-  active_color:  
-  EN: You can view how long is remaining on your mute when you try to send a message in a global channel.
-  BR: 
-  RU:
-  TH:
-  DE:
-  FR:
-  ES:
-  KR:
+  title: Rename
+  color: darkorange1
+  active_color: darkorange4
+  EN: You are about to be logged out due to having an offensive/inappropriate character name. When logging onto your character again, you will need to choose a more appropriate character name.
+  BR: Você está prestes a ser desconectado por ter um nome de personagem ofensivo / impróprio. Ao conectar-se ao seu personagem novamente, você precisará escolher um nome de personagem mais apropriado.
+  RU: Вы собираетесь выйти из системы из-за того, что у вас оскорбительное / неподходящее имя персонажа. При повторном входе в систему вашего персонажа вам нужно будет выбрать более подходящее имя персонажа.
+  TH: คุณกำลังจะออกจากระบบเนื่องจากมีชื่อตัวละครที่ไม่เหมาะสม/ไม่เหมาะสม เมื่อเข้าสู่ระบบตัวละครของคุณอีกครั้ง คุณจะต้องเลือกชื่อตัวละครที่เหมาะสมกว่า
+  DE: Sie sind dabei, ausgeloggt zu werden, weil Sie einen beleidigenden/unangemessenen Charakternamen haben. Wenn Sie sich erneut bei Ihrem Charakter anmelden, müssen Sie einen passenderen Charakternamen wählen.
+  FR: Vous êtes sur le point d'être déconnecté en raison d'un nom de personnage offensant/inapproprié. Lorsque vous vous reconnecterez à votre personnage, vous devrez choisir un nom de personnage plus approprié.
+  ES: Estás a punto de cerrar sesión por tener un nombre de personaje ofensivo / inapropiado. Cuando vuelva a iniciar sesión en su personaje, deberá elegir un nombre de personaje más apropiado.
+  KR: 공격적 / 부적절한 캐릭터 이름으로 인해 로그 아웃됩니다. 캐릭터에 다시 로그인 할 때 더 적절한 캐릭터 이름을 선택해야합니다.
   
 
 R24: 
-  title: Off. Language
-  color: red2
+  title: 
+  color: 
   active_color:  
-  EN: You've been muted for using offensive language.
+  EN: 
   BR: 
   RU:
   TH:
